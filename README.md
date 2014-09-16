@@ -1,7 +1,7 @@
 AppScotch Android SDK
 =================
 
-AppScotch delivers high-definition playable ads ads that can be displayed anywhere within your application.
+AppScotch delivers high-definition playable ads that can be displayed anywhere within your application.
 
 ## Download
 
